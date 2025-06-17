@@ -3,7 +3,7 @@
 ```bash
 This repository is a collection of carefully implemented **Multi-Layer Perceptron (MLP)** projects
 designed to showcase core deep learning principles using various frameworks, including **NumPy (from scratch)**,
-**PyTorch**, and **TensorFlow**.
+__PyTorch__, and **TensorFlow**.
 
 Whether you're looking to understand MLPs deeply, demonstrate clean DL project structure, or compare behaviors across
 platforms — this repo is built for clarity, correctness, and completeness.
