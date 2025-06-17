@@ -5,19 +5,17 @@ This project implements a **Multi-Layer Perceptron (MLP)** from scratch using **
 and compares it to an equivalent **PyTorch implementation** — both trained on the MNIST
 handwritten digit dataset.
 ```
-
 ---
 
 ## Project Highlights
 
-``bash
+```bash
 - Neural network (MLP) implemented **from scratch**
 - PyTorch equivalent for comparison
 - Visualizations of accuracy and loss
 - Final test accuracy:
     - **Custom NumPy model:** ~94.88%
     - **PyTorch model:** ~90.63%
-
 ```
 ---
 
