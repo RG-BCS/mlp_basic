@@ -85,11 +85,10 @@ layers, enabling experimentation with deeper architectures.
         | ----------- | ------------- |
         | NumPy MLP   | **97.53%**    |
         | PyTorch MLP |   97.50%      |
-
+---
 ![Training Rewards](two_layers.png)
 
 ```
-
 ---
 ## What You’ll Learn
 
@@ -100,5 +99,3 @@ layers, enabling experimentation with deeper architectures.
 . How to structure clean, modular ML projects for easy extension and experimentation with model depth
 
 ```
----
-
