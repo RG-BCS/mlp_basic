@@ -7,12 +7,10 @@ handwritten digit dataset.It supports models with either a single hidden layer o
 layers, enabling experimentation with deeper architectures.
 
 ```
-
 ---
 
 ## Project Highlights
-
-``bash
+```bash
 - Neural network (MLP) implemented **from scratch** with support for:
     - Single hidden layer
     - Two hidden layers (extended model)
@@ -24,7 +22,6 @@ layers, enabling experimentation with deeper architectures.
     - **PyTorch single-layer model:** ~90.63%
     - **PyTorch two-layer model:** ~97.50
 - Modular and extensible codebase for easy experimentation with network depth and hyperparameters
-
 ```
 ---
 
