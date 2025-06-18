@@ -10,7 +10,7 @@ handwritten digit dataset.
 
 ## Project Highlights
 
-``bash
+```bash
 - Neural network (MLP) implemented **from scratch**
 - PyTorch equivalent for comparison
 - Visualizations of accuracy and loss
