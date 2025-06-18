@@ -67,10 +67,8 @@ layers, enabling experimentation with deeper architectures.
 ---
 
 ## Training Results
-
+### One hidden layer
 ```bash
-## One hidden layer
-
         | Model       | Test Accuracy |
         | ----------- | ------------- |
         | NumPy MLP   | **94.88%**    |
@@ -79,9 +77,8 @@ layers, enabling experimentation with deeper architectures.
 ---
 ![Training Rewards](rewards_vs_episodes.png)
 ---
+### Two hidden layers
 ```bash
-    ### Two hidden layers
-
         | Model       | Test Accuracy |
         | ----------- | ------------- |
         | NumPy MLP   | **97.53%**    |
