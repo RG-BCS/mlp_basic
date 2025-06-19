@@ -1,7 +1,8 @@
 # Fashion MNIST Classification using Keras Sequential API
 
 ```bash
-This example demonstrates the use of Keras’s **Sequential API** to train a deep neural network for image classification on the **Fashion MNIST** dataset.
+This example demonstrates the use of Keras’s **Sequential API** to train a deep neural network for
+image classification on the **Fashion MNIST** dataset.
 ```
 ---
 
@@ -59,12 +60,8 @@ pip install tensorflow numpy matplotlib pandas
 
 ```bash
 This project highlights:
-
     . How to use Keras's Sequential API
-
     . Clean separation of architecture (model.py) and training logic (train.py)
-
     . Custom prediction visualizations for model inspection
-    
 ```
 ---
