@@ -10,7 +10,7 @@ repository, where I implement neural networks from scratch and compare them with
 ---
 
 ## Project Structure
-```bash
+
 Each folder contains a standalone example with model code, training pipeline, and results.
 
 ### `sequential_mnist_fashion/`
@@ -31,14 +31,13 @@ Each folder contains a standalone example with model code, training pipeline, an
 - **Model:** Model Subclassing API
 - **Highlights:** Full control of forward pass logic, custom training/evaluation
 ```
-```
 ---
 
 ## How to Run
+
 ```bash
 Each example can be run independently:
 
-```bash
 cd sequential_mnist_fashion
 python train.py
 
@@ -60,9 +59,7 @@ pip install tensorflow numpy pandas matplotlib scikit-learn
 
 ```bash
 . Showcase versatility across Keras APIs
-
 . Demonstrate working knowledge of TensorFlow's model-building backends
-
 . Complement PyTorch and from-scratch implementations in separate repos
-
 . Provide clean, reproducible code examples for training neural networks
+```
