@@ -19,7 +19,7 @@ the California Housing dataset for regression.
 ```
 ---
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 ```bash
 
