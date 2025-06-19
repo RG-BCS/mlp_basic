@@ -14,19 +14,23 @@ repository, where I implement neural networks from scratch and compare them with
 Each folder contains a standalone example with model code, training pipeline, and results.
 
 ### `sequential_mnist_fashion/`
+```bash
 - **Task:** Image classification on Fashion MNIST
 - **Model:** Sequential API
 - **Highlights:** Simple, linear model stack; great for quick prototyping
-
+```
 ### `functional_api_california_housing/`
+```bash
 - **Task:** Regression on the California Housing dataset
 - **Model:** Functional API
 - **Highlights:** Multiple inputs, flexible architecture design
-
+```
 ### `subclassing_api_california_housing/`
+```bash
 - **Task:** Regression on the California Housing dataset
 - **Model:** Model Subclassing API
 - **Highlights:** Full control of forward pass logic, custom training/evaluation
+```
 ```
 ---
 
