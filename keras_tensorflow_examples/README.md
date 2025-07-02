@@ -1,12 +1,12 @@
 # Keras & TensorFlow Deep Learning Examples
-```bash
+
 This project demonstrates my ability to build and train deep learning models using **Keras** with a **TensorFlow
 backend**. It includes examples using all three major Keras modeling APIs: **Sequential**, **Functional**, and
 **Model Subclassing**.
 
 These examples complement the work in my [`mlp_basic`](https://github.com/RG-BCS/mlp_basic/tree/main/mlp_from_scratch)
 repository, where I implement neural networks from scratch and compare them with PyTorch implementations.
-```
+
 ---
 
 ## Project Structure
@@ -14,11 +14,11 @@ repository, where I implement neural networks from scratch and compare them with
 Each folder contains a standalone example with model code, training pipeline, and results.
 
 ### `sequential_mnist_fashion/`
-```bash
+
 - **Task:** Image classification on Fashion MNIST
 - **Model:** Sequential API
 - **Highlights:** Simple, linear model stack; great for quick prototyping
-```
+
 ### `functional_api_california_housing/`
 ```bash
 - **Task:** Regression on the California Housing dataset
