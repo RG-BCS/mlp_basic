@@ -76,21 +76,18 @@ layers, enabling experimentation with deeper architectures.
 ![Training Rewards](rewards_vs_episodes.png)
 ---
 ### Two hidden layers
-```bash
+
         | Model       | Test Accuracy |
         | ----------- | ------------- |
         | NumPy MLP   | **97.53%**    |
         | PyTorch MLP |   97.50%      |
-```
+        
 ---
 ![Training Rewards](two_layers.png)
 ---
 ## What You’ll Learn
 
-```bash
 . How forward and backward propagation are implemented manually for single and two-layer MLPs
 . How to train neural networks using only NumPy, without relying on deep learning frameworks
 . Differences in training behavior and performance between custom NumPy implementations and PyTorch models
 . How to structure clean, modular ML projects for easy extension and experimentation with model depth
-
-```
