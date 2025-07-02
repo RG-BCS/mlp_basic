@@ -20,17 +20,17 @@ Each folder contains a standalone example with model code, training pipeline, an
 - **Highlights:** Simple, linear model stack; great for quick prototyping
 
 ### `functional_api_california_housing/`
-```bash
+
 - **Task:** Regression on the California Housing dataset
 - **Model:** Functional API
 - **Highlights:** Multiple inputs, flexible architecture design
-```
+
 ### `subclassing_api_california_housing/`
-```bash
+
 - **Task:** Regression on the California Housing dataset
 - **Model:** Model Subclassing API
 - **Highlights:** Full control of forward pass logic, custom training/evaluation
-```
+
 ---
 
 ## How to Run
