@@ -1,16 +1,14 @@
 # MLP from Scratch (Single and Two Hidden Layers): Classifying MNIST Digits
 
-```bash
 This project implements a **Multi-Layer Perceptron (MLP)** from scratch using **NumPy**,
 and compares it to an equivalent **PyTorch implementation** — both trained on the MNIST
 handwritten digit dataset.It supports models with either a single hidden layer or two hidden
 layers, enabling experimentation with deeper architectures.
 
-```
 ---
 
 ## Project Highlights
-```bash
+
 - Neural network (MLP) implemented **from scratch** with support for:
     - Single hidden layer
     - Two hidden layers (extended model)
@@ -22,18 +20,18 @@ layers, enabling experimentation with deeper architectures.
     - **PyTorch single-layer model:** ~90.63%
     - **PyTorch two-layer model:** ~97.50
 - Modular and extensible codebase for easy experimentation with network depth and hyperparameters
-```
+
 ---
 
 ## Tech Stack
 
 ```bash
-    | Component      | Library       |
-    |----------------|----------------|
+    | Component      | Library                                   |
+    |----------------|-------------------------------------------|
     | Dataset        | `scikit-learn` (MNIST via `fetch_openml`) |
-    | Core Logic     | `NumPy`, `PyTorch` |
-    | Visualization  | `matplotlib` |
-    | Splitting & Metrics | `scikit-learn` |
+    | Core Logic     | `NumPy`, `PyTorch`                        |
+    | Visualization  | `matplotlib`                              |
+    | Splitting & Metrics | `scikit-learn`                       |
     
 ```
 ---
