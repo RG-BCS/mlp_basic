@@ -55,10 +55,8 @@ python train.py
 
 ## Key Takeaways
 
-```bash
     . Showcases use of Keras Functional API for non-sequential models
     . Demonstrates how to merge multiple input branches
     . Real-world dataset for regression
-```
 ---
 
